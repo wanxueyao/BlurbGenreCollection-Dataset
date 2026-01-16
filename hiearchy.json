@@ -1,0 +1,180 @@
+{
+    "Nonfiction": {
+      "Biography & Memoir": {
+        "Arts & Entertainment Biographies & Memoirs": {},
+        "Political Figure Biographies & Memoirs": {},
+        "Historical Figure Biographies & Memoirs": {},
+        "Literary Figure Biographies & Memoirs": {}
+      },
+      "Cooking": {
+        "Regional & Ethnic Cooking": {},
+        "Cooking Methods": {},
+        "Food Memoir & Travel": {},
+        "Baking & Desserts": {},
+        "Wine & Beverage": {}
+      },
+      "Arts & Entertainment": {
+        "Art": {},
+        "Design": {},
+        "Film": {},
+        "Music": {},
+        "Performing Arts": {},
+        "Photography": {},
+        "Writing": {}
+      },
+      "Business": {
+        "Economics": {},
+        "Management": {},
+        "Marketing": {}
+      },
+      "Crafts, Home & Garden": {
+        "Crafts & Hobbies": {},
+        "Home & Garden": {},
+        "Weddings": {}
+      },
+      "Games": {},
+      "Health & Fitness": {
+        "Alternative Therapies": {},
+        "Diet & Nutrition": {},
+        "Exercise": {},
+        "Health & Reference": {}
+      },
+      "History": {
+        "Military History": {
+          "World War II Military History": {},
+          "World War I Military History": {},
+          "1950 – Present Military History": {}
+        },
+        "U.S. History": {
+          "21st Century U.S. History": {},
+          "20th Century U.S. History": {},
+          "19th Century U.S. History": {},
+          "Civil War Period": {},
+          "Colonial/Revolutionary Period": {},
+          "Native American History": {}
+        },
+        "World History": {
+          "African World History": {},
+          "Ancient World History": {},
+          "Asian World History": {},
+          "European World History": {},
+          "Latin American World History": {},
+          "Middle Eastern World History": {},
+          "North American World History": {}
+        }
+      },
+      "Parenting": {},
+      "Pets": {},
+      "Politics": {
+        "Domestic Politics": {},
+        "World Politics": {}
+      },
+      "Popular Science": {
+        "Science": {},
+        "Technology": {}
+      },
+      "Psychology": {},
+      "Reference": {
+        "Language": {},
+        "Test Preparation": {}
+      },
+      "Religion & Philosophy": {
+        "Religion": {},
+        "Philosophy": {},
+        "Bibles": {}
+      },
+      "Self-Improvement": {
+        "Beauty": {},
+        "Inspiration & Motivation": {},
+        "Personal Finance": {},
+        "Personal Growth": {}
+      },
+      "Sports": {},
+      "Travel": {
+        "Travel: Africa": {},
+        "Travel: Asia": {},
+        "Travel: Australia & Oceania": {},
+        "Travel: Caribbean & Mexico": {},
+        "Travel: Central & South America": {},
+        "Travel: Europe": {},
+        "Travel: Middle East": {},
+        "Specialty Travel": {},
+        "Travel Writing": {},
+        "Travel: USA & Canada": {}
+      }
+    },
+    "Fiction": {
+      "Fantasy": {
+        "Contemporary Fantasy": {},
+        "Epic Fantasy": {},
+        "Fairy Tales": {},
+        "Urban Fantasy": {}
+      },
+      "Gothic & Horror": {},
+      "Graphic Novels & Manga": {},
+      "Historical Fiction": {},
+      "Literary Fiction": {},
+      "Military Fiction": {},
+      "Mystery & Suspense": {
+        "Cozy Mysteries": {},
+        "Crime Mysteries": {},
+        "Espionage Mysteries": {},
+        "Noir Mysteries": {},
+        "Suspense & Thriller": {}
+      },
+      "Paranormal Fiction": {},
+      "Romance": {
+        "Contemporary Romance": {},
+        "Erotica": {},
+        "Historical Romance": {},
+        "New Adult Romance": {},
+        "Paranormal Romance": {},
+        "Regency Romance": {},
+        "Suspense Romance": {},
+        "Western Romance": {}
+      },
+      "Science Fiction": {
+        "Cyber Punk": {},
+        "Military Science Fiction": {},
+        "Space Opera": {}
+      },
+      "Spiritual Fiction": {},
+      "Western Fiction": {},
+      "Women’s Fiction": {}
+    },
+    "Classics": {
+      "Fiction Classics": {},
+      "Literary Collections": {},
+      "Literary Criticism": {},
+      "Nonfiction Classics": {}
+    },
+    "Children’s Books": {
+      "Step Into Reading": {},
+      "Children’s Middle Grade Books": {
+        "Children’s Middle Grade Mystery & Detective Books": {},
+        "Children’s Middle Grade Action & Adventure Books": {},
+        "Children’s Middle Grade Fantasy & Magical Books": {},
+        "Children’s Middle Grade Historical Books": {},
+        "Children’s Middle Grade Sports Books": {}
+      },
+      "Children’s Activity & Novelty Books": {},
+      "Children’s Board Books": {},
+      "Children’s Boxed Sets": {},
+      "Children’s Chapter Books": {},
+      "Childrens Media Tie-In Books": {},
+      "Children’s Picture Books": {}
+    },
+    "Teen & Young Adult": {
+      "Teen & Young Adult Action & Adventure": {},
+      "Teen & Young Adult Mystery & Suspense": {},
+      "Teen & Young Adult Fantasy Fiction": {},
+      "Teen & Young Adult Nonfiction": {},
+      "Teen & Young Adult Fiction": {},
+      "Teen & Young Adult Social Issues": {},
+      "Teen & Young Adult Historical Fiction": {},
+      "Teen & Young Adult Romance": {},
+      "Teen & Young Adult Science Fiction": {}
+    },
+    "Humor": {},
+    "Poetry": {}
+  }
